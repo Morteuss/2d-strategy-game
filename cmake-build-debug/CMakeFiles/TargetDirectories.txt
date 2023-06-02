@@ -1,3 +1,0 @@
-C:/Users/Sylwek/CLionProjects/2d-strategy-game/cmake-build-debug/CMakeFiles/2d_strategy_game.dir
-C:/Users/Sylwek/CLionProjects/2d-strategy-game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Sylwek/CLionProjects/2d-strategy-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
