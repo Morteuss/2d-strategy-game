@@ -11,3 +11,5 @@ Assumptions:
 * [x] trees from time to time grow back in any place and grow with time.
 
 Project implemented with: https://github.com/hakisu in 2017 for classes at the University.
+I am currently restoring the files, then I will make corrections (strong improvement of the quality of the code, optimization of the algorithms used) and will develop the game.
+
