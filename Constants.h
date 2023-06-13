@@ -39,7 +39,7 @@ namespace Constants {
 
     // Font paths
     const std::string fontPathToOpenSans = "OpenSans-Regular.ttf";
-ó
+
     // Debug constants
     const int DEBUG_DISPLAY_ALPHA_VALUE = 170;
 }
