@@ -13,3 +13,11 @@ Assumptions:
 Project implemented with: https://github.com/hakisu in 2017 for classes at the University.
 I am currently restoring the files, then I will make corrections (strong improvement of the quality of the code, optimization of the algorithms used) and will develop the game.
 
+
+# Useful informations:
+* Make sure you set the working directory to 2d_strategy_game. Otherwise the assets will not load correctly.
+
+
+# Gameplay:
+* Currently, every new game, causes a new map to be generated anew. When it starts up, a simple loader is displayed asynchronously. When the generation is successful and the new game window is displayed (in addition, a console with logs is displayed), click Space to start the game.
+
