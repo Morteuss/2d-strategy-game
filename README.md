@@ -12,7 +12,7 @@ Assumptions:
 
 Project implemented with: https://github.com/hakisu in 2017 for classes at the University.
 I am currently restoring the files, then I will make corrections (strong improvement of the quality of the code, optimization of the algorithms used) and will develop the game.
-
+Code is written according to the rules (or at least that's what we tried to do at the time) described in the following Google guide: https://google.github.io/styleguide/cppguide.html
 
 # Useful informations:
 * Make sure you set the working directory to 2d_strategy_game. Otherwise the assets will not load correctly.
