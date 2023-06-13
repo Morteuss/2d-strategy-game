@@ -1,6 +1,6 @@
 # 2d-strategy-game
 
-This is a 2d strategy game.
+This is a 2d strategy game. Created with C++ std11 and SFML.
 
 Assumptions:
 * [x] when creating a new game, the map is randomly generated,
