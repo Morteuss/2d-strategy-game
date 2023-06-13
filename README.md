@@ -19,5 +19,6 @@ Code is written according to the rules (or at least that's what we tried to do a
 
 
 # Gameplay:
-* Currently, every new game, causes a new map to be generated anew. When it starts up, a simple loader is displayed asynchronously. When the generation is successful and the new game window is displayed (in addition, a console with logs is displayed), click Space to start the game.
+* Space: Pause - Currently, every new game, causes a new map to be generated anew. When it starts up, a simple loader is displayed asynchronously. When the generation is successful and the new game window is displayed (in addition, a console with logs is displayed), click Space to start the game.
+* WSAD: Camera movement.
 
